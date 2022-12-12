@@ -32,6 +32,7 @@ public class Constructor_Assignment {
 	}
 	
 	
+	
 	public static void main (String agrs[])
 	{
 		Constructor_Assignment obj = new Constructor_Assignment();
