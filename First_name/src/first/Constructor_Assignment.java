@@ -15,7 +15,7 @@ public class Constructor_Assignment {
 	{
 		System.out.println("One parameterized method");
 	}
-	public void two (int a , int b)
+	public void two (int a , int d)
 	{
 		System.out.println("Two parameterized method");
 	}
